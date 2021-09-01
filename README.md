@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/49397327/131618403-bab04e7e-5911-4591-
 - Run "Camera calibrator" app in MATLAB, load checkerboard images, calibrate, save calibration session mat file
 - Open folder called "calib_mats".
 - Run "convertCalib.m" to convert calibration session to distortion parameters and camera instrinsic matrix
-- Copy the output mat file to "Reconstruction\calib" folder
+- Copy the output mat file to "Recon\calib" folder
  
 **_Reconstruction_**
 - Open folder called "Recon".
