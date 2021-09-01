@@ -10,7 +10,8 @@ Modify the code to suit your case study (especially for camera and motor drive c
 - Open folder called "Capture_Data".
 - Run "Data_Capture_v1.m" to open up GUI for collecting Data. See attached video for further details
 - For our case, we used mvBlueFox2089c camera and Ezi-Motion plusR motor.
-Special features; Live-view rotaion, gamma and color correction.
+Special features; Live-view rotaion, gamma and color correction. 
+
 Capture video:--> https://user-images.githubusercontent.com/49397327/131616570-7bff361c-037b-4ac1-b3ec-6f08e34954c1.mp4
 
 **_Preprocessing_**
@@ -28,6 +29,7 @@ Capture video:--> https://user-images.githubusercontent.com/49397327/131616570-7
 - Saved .ply file in the out folder can be visualised and/or further analysed using MeshLab, 3DFZephr, or any 3D preview/analysis program
 - Sample of 3D reconstruction see video attached.
 - Most of the reconstruction functions were inherited from "https://github.com/Alex-Badea/Pocket-3DR", visit link for further details.
+
 3D model video:--> https://user-images.githubusercontent.com/49397327/131616628-bc7b6cf9-0a49-4e8e-a615-fbfb2b94a402.mp4
 
 **_Requirements_**
