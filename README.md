@@ -6,7 +6,7 @@ This repository provides code for 2D image data collection, calibration and 3D r
 Specifically, these code were developed to capture data of beef carcasses and reconstruct an accurate and detailed 3D model of the carcass.
 Modify the code to suit your case study (especially for camera and motor drive control).
 
-#_Data collection_#
+**_Data collection_**
 - Open folder called "Capture_Data".
 - Run "Data_Capture_v1.m" to open up GUI for collecting Data. See attached video for further details
 - For our case, we used mvBlueFox2089c camera and Ezi-Motion plusR motor.
